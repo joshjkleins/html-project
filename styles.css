@@ -9,6 +9,15 @@ main {
     margin-top: 50px;
 }
 
+img {
+	max-width:  500px;
+	height:  auto;
+}
+
+#random-pokemon {
+	margin-bottom: 10px;
+}
+
 #change-color {
 	font-size:  30px;
 	padding: 10px;
