@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-  if (window.location.pathname == '/index') {
+  if (window.location.pathname == '/') {
 
     document.getElementById("random-pokemon").addEventListener("click", function() {
       let pokemonNumber = Math.floor(Math.random() * 150)
